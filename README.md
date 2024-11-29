@@ -1,4 +1,4 @@
-# stone-paper-scissors-game
+# Stone-Paper-Scissors Game
 A small beginner freindly project to simulate the stone-scissor-paper game.
 Rules:
 •	Stone crushes Scissors: Stone wins against Scissors.
